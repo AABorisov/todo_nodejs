@@ -1,0 +1,13 @@
+{
+  "name": "todo_nodejs",
+  "version": "1.0.0",
+  "description": "ToDo-server test task",
+  "private": true,
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["todo-server", "todo-nodejs"],
+  "author": "AABorisov <borisov.andrew.a@gmail.com>",
+  "license": "ISC"
+}
